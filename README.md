@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🌱 Current Learning<br>- Full-stack development.<br> 🎯 Goals for 2024<br>- Contribute to open-source projects.<br>- Build a personal portfolio website.<br>
+ 🌱 Current Learning<br>- Full-stack development.<br> 🎯 Goals for 2025<br>- Contribute to open-source projects.<br>- Build a personal portfolio website.<br>
 
 
 ## 🌐 Socials:
